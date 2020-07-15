@@ -1,4 +1,6 @@
 https://andruscomarian.github.io/11-WebSite---ColorGame/
+
+
 This is a color game made with js. 
 The game has 2 difficulty levels. 
 Te scope of the game is to select the right color.
